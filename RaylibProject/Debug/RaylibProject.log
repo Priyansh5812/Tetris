@@ -1,0 +1,18 @@
+﻿  GameManager.cpp
+E:\Learn\C++\RaylibProject\RaylibProject\src\GameManager\GameManager.cpp(81,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Blocks.cpp
+  Colors.cpp
+  Position.cpp
+  Block.cpp
+E:\Learn\C++\RaylibProject\RaylibProject\src\Block\Base\Block.cpp(24,20): warning C4018: '<': signed/unsigned mismatch
+  Grid.cpp
+  main.cpp
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+raylib.lib(rcore.obj) : warning LNK4099: PDB '' was not found with 'raylib.lib(rcore.obj)' or at ''; linking object as if no debug info
+raylib.lib(rglfw.obj) : warning LNK4099: PDB '' was not found with 'raylib.lib(rglfw.obj)' or at ''; linking object as if no debug info
+raylib.lib(rshapes.obj) : warning LNK4099: PDB '' was not found with 'raylib.lib(rshapes.obj)' or at ''; linking object as if no debug info
+raylib.lib(rtext.obj) : warning LNK4099: PDB '' was not found with 'raylib.lib(rtext.obj)' or at ''; linking object as if no debug info
+raylib.lib(rtextures.obj) : warning LNK4099: PDB '' was not found with 'raylib.lib(rtextures.obj)' or at ''; linking object as if no debug info
+raylib.lib(utils.obj) : warning LNK4099: PDB '' was not found with 'raylib.lib(utils.obj)' or at ''; linking object as if no debug info
+  RaylibProject.vcxproj -> E:\Learn\C++\RaylibProject\Debug\RaylibProject.exe
