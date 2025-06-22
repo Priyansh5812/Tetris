@@ -1,13 +1,17 @@
-﻿  Block.cpp
+﻿  GameManager.cpp
+E:\Learn\C++\RaylibProject\RaylibProject\src\GameManager\GameManager.cpp(107,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Blocks.cpp
+  Colors.cpp
+  Position.cpp
+  Block.cpp
 E:\Learn\C++\RaylibProject\RaylibProject\src\Block\Base\Block.cpp(26,96): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
 E:\Learn\C++\RaylibProject\RaylibProject\src\Block\Base\Block.cpp(26,25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
 E:\Learn\C++\RaylibProject\RaylibProject\src\Block\Base\Block.cpp(124,44): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-  GameManager.cpp
-E:\Learn\C++\RaylibProject\RaylibProject\src\GameManager\GameManager.cpp(107,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
   Grid.cpp
 E:\Learn\C++\RaylibProject\RaylibProject\src\Grid\Grid.cpp(52,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
 E:\Learn\C++\RaylibProject\RaylibProject\src\Grid\Grid.cpp(52,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-  UIManager.cpp
   main.cpp
+  UIManager.cpp
   Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
   RaylibProject.vcxproj -> E:\Learn\C++\RaylibProject\x64\Debug\RaylibProject.exe

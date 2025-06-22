@@ -4,7 +4,6 @@
 
 #pragma region Color Coding
 
-
 extern const Color darkgrey;
 extern const Color green;
 extern const Color red;

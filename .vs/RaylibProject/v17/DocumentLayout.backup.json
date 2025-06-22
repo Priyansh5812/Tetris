@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "E:\\Learn\\C\u002B\u002B\\RaylibProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8E2F07ED-C053-4E62-A160-F70A6A74D239}|RaylibProject\\RaylibProject.vcxproj|E:\\Learn\\C\u002B\u002B\\RaylibProject\\RaylibProject\\src\\Components\\Colors.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8E2F07ED-C053-4E62-A160-F70A6A74D239}|RaylibProject\\RaylibProject.vcxproj|solutionrelative:RaylibProject\\src\\Components\\Colors.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E2F07ED-C053-4E62-A160-F70A6A74D239}|RaylibProject\\RaylibProject.vcxproj|E:\\LEARN\\C\u002B\u002B\\RAYLIBPROJECT\\RAYLIBPROJECT\\INCLUDE\\RAYLIB.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8E2F07ED-C053-4E62-A160-F70A6A74D239}|RaylibProject\\RaylibProject.vcxproj|solutionrelative:RAYLIBPROJECT\\INCLUDE\\RAYLIB.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8E2F07ED-C053-4E62-A160-F70A6A74D239}|RaylibProject\\RaylibProject.vcxproj|E:\\Learn\\C\u002B\u002B\\RaylibProject\\RaylibProject\\src\\Grid\\Grid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8E2F07ED-C053-4E62-A160-F70A6A74D239}|RaylibProject\\RaylibProject.vcxproj|solutionrelative:RaylibProject\\src\\Grid\\Grid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -50,11 +58,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 210,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
+              "Title": "raylib.h",
+              "DocumentMoniker": "E:\\Learn\\C\u002B\u002B\\RaylibProject\\RaylibProject\\include\\raylib.h",
+              "RelativeDocumentMoniker": "RaylibProject\\include\\raylib.h",
+              "ToolTip": "E:\\Learn\\C\u002B\u002B\\RaylibProject\\RaylibProject\\include\\raylib.h",
+              "RelativeToolTip": "RaylibProject\\include\\raylib.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-22T02:24:10.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Colors.h",
+              "DocumentMoniker": "E:\\Learn\\C\u002B\u002B\\RaylibProject\\RaylibProject\\src\\Components\\Colors.h",
+              "RelativeDocumentMoniker": "RaylibProject\\src\\Components\\Colors.h",
+              "ToolTip": "E:\\Learn\\C\u002B\u002B\\RaylibProject\\RaylibProject\\src\\Components\\Colors.h",
+              "RelativeToolTip": "RaylibProject\\src\\Components\\Colors.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-22T02:24:07.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "UIManager.cpp",
               "DocumentMoniker": "E:\\Learn\\C\u002B\u002B\\RaylibProject\\RaylibProject\\src\\UI\\UIManager.cpp",
               "RelativeDocumentMoniker": "RaylibProject\\src\\UI\\UIManager.cpp",
@@ -62,12 +96,11 @@
               "RelativeToolTip": "RaylibProject\\src\\UI\\UIManager.cpp",
               "ViewState": "AgIAACAAAAAAAAAAAAAhwDoAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-17T03:40:03.688Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-17T03:40:03.688Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Block.h",
               "DocumentMoniker": "E:\\Learn\\C\u002B\u002B\\RaylibProject\\RaylibProject\\src\\Block\\Base\\Block.h",
               "RelativeDocumentMoniker": "RaylibProject\\src\\Block\\Base\\Block.h",
@@ -79,7 +112,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Block.cpp",
               "DocumentMoniker": "E:\\Learn\\C\u002B\u002B\\RaylibProject\\RaylibProject\\src\\Block\\Base\\Block.cpp",
               "RelativeDocumentMoniker": "RaylibProject\\src\\Block\\Base\\Block.cpp",
@@ -91,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Grid.h",
               "DocumentMoniker": "E:\\Learn\\C\u002B\u002B\\RaylibProject\\RaylibProject\\src\\Grid\\Grid.h",
               "RelativeDocumentMoniker": "RaylibProject\\src\\Grid\\Grid.h",
@@ -99,25 +132,24 @@
               "RelativeToolTip": "RaylibProject\\src\\Grid\\Grid.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-06-17T01:09:24.675Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-17T01:09:24.675Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Grid.cpp",
               "DocumentMoniker": "E:\\Learn\\C\u002B\u002B\\RaylibProject\\RaylibProject\\src\\Grid\\Grid.cpp",
               "RelativeDocumentMoniker": "RaylibProject\\src\\Grid\\Grid.cpp",
               "ToolTip": "E:\\Learn\\C\u002B\u002B\\RaylibProject\\RaylibProject\\src\\Grid\\Grid.cpp",
               "RelativeToolTip": "RaylibProject\\src\\Grid\\Grid.cpp",
-              "ViewState": "AgIAAFcAAAAAAAAAAAAAAHEAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAIwCQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-06-17T01:09:20.526Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "GameManager.h",
               "DocumentMoniker": "E:\\Learn\\C\u002B\u002B\\RaylibProject\\RaylibProject\\src\\GameManager\\GameManager.h",
               "RelativeDocumentMoniker": "RaylibProject\\src\\GameManager\\GameManager.h",
@@ -125,12 +157,11 @@
               "RelativeToolTip": "RaylibProject\\src\\GameManager\\GameManager.h",
               "ViewState": "AgIAAAoAAAAAAAAAAAAUwCMAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-06-17T00:30:06.056Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-17T00:30:06.056Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Blocks.cpp",
               "DocumentMoniker": "E:\\Learn\\C\u002B\u002B\\RaylibProject\\RaylibProject\\src\\Block\\Blocks.cpp",
               "RelativeDocumentMoniker": "RaylibProject\\src\\Block\\Blocks.cpp",
@@ -142,7 +173,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "GameManager.cpp",
               "DocumentMoniker": "E:\\Learn\\C\u002B\u002B\\RaylibProject\\RaylibProject\\src\\GameManager\\GameManager.cpp",
               "RelativeDocumentMoniker": "RaylibProject\\src\\GameManager\\GameManager.cpp",
@@ -150,12 +181,11 @@
               "RelativeToolTip": "RaylibProject\\src\\GameManager\\GameManager.cpp",
               "ViewState": "AgIAAIEAAAAAAAAAAAAUwJoAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-04T07:20:38.677Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T07:20:38.677Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "UIManager.h",
               "DocumentMoniker": "E:\\Learn\\C\u002B\u002B\\RaylibProject\\RaylibProject\\src\\UI\\UIManager.h",
               "RelativeDocumentMoniker": "RaylibProject\\src\\UI\\UIManager.h",
@@ -163,12 +193,11 @@
               "RelativeToolTip": "RaylibProject\\src\\UI\\UIManager.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-06-04T07:20:32.9Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T07:20:32.9Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "main.cpp",
               "DocumentMoniker": "E:\\Learn\\C\u002B\u002B\\RaylibProject\\RaylibProject\\src\\main.cpp",
               "RelativeDocumentMoniker": "RaylibProject\\src\\main.cpp",
@@ -176,8 +205,7 @@
               "RelativeToolTip": "RaylibProject\\src\\main.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-04T07:20:04.232Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T07:20:04.232Z"
             }
           ]
         }
