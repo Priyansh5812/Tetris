@@ -1,0 +1,83 @@
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+
+*.userprefs
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+.vs/
+
+# Others
+*.dbmdl
+*.bak
+*.cache
+*.pdb
+*.mdb
+
+# .NET Core/5+/6+ global tools
+.dotnet/
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+*.nuspec
+*.psmdcp
+
+# NPM packages (optional)
+node_modules/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Logs
+*.log
+
+# Web output
+wwwroot/
+
+# Visual Studio profiler
+*.vsp
+*.vspx
+*.sap
+
+# Coverage
+*.coverage
+*.coveragexml
+TestResults/
+
+# Publish output
+.publish/
+
+# Temporary files
+~$*
+
+# VS for Mac
+.vscode/
+.idea/
+
