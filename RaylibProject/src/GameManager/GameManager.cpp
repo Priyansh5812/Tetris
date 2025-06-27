@@ -113,6 +113,17 @@ void GameManager::GetNewBlock()
 		RestoreBlock(*prevBlock);
 		prevBlock = NULL;
 	}
+
+	for (auto i : currentBlock->cells[0])
+	{
+		if (!grid->IsCellEmpty(i.row + currentBlock->GetRowOffset(), i.column + currentBlock->GetColumnOffset()))
+		{	
+			SetGameOver();
+			return;
+		}
+	}
+
+	
 }
 
 void GameManager::RestoreBlock(Block& block)

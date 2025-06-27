@@ -139,6 +139,10 @@ void Grid::DescendRows(int bottomRow, int topRow)
 	}
 }
 
+bool Grid::IsCellEmpty(int row, int column)
+{
+	return grid[row][column] == 0;
+}
 
 
 bool Grid::IsRowEmpty(int row)

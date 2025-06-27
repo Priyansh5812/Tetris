@@ -30,7 +30,8 @@ public:
 	void InitiateGridChange();
 	bool CheckCollision(Position position);
 	virtual void ResetBlock() = 0;
-
+	int8_t GetRowOffset() const;
+	int8_t GetColumnOffset() const;
 	std::map<int, std::vector<Position>> cells;
 
 	

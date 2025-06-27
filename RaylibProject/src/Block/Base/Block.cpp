@@ -71,22 +71,15 @@ void Block::MoveBlockDown()
 
 	// Check for Block Collisions
 	for (auto i : cells[rotationState])
-	{
+	{	
 		if (CheckCollision({ i.row + this->rowOffset + 1, i.column+ this->colOffset}))
 		{	
-			if (!GameManager::GetInstance()->GetGridRef()->IsRowEmpty(1))
-			{
-				GameManager::GetInstance()->SetGameOver();
-				return;
-			}
 			GameManager::GetInstance()->GetNewBlock();
 			GameManager::GetInstance()->GetGridRef()->RowCompletionCheck();		
 			return;
 		}
 	}
-	
-	
-	
+
 
 	this->UpdateBlockPositionBy(1, 0);
 
@@ -262,4 +255,14 @@ bool Block::CheckCollision(Position position)
 
 
 	return false;
+}
+
+int8_t Block::GetRowOffset() const
+{
+	return this->rowOffset;
+}
+
+int8_t Block::GetColumnOffset() const
+{
+	return this->colOffset;
 }

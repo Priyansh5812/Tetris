@@ -14,6 +14,7 @@ public :
 	void RowCompletionCheck();
 	bool IsRowEmpty(int row);
 	bool IsRowFilled(int row);
+    bool IsCellEmpty(int row, int column);
 	static const __int8 numRows = 20;
 	static const __int8 numCols = 10;
 	static const __int8 cellSize = 30;
