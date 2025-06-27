@@ -81,3 +81,4 @@ TestResults/
 .vscode/
 .idea/
 
+*.vsidx
